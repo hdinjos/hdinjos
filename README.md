@@ -1,4 +1,4 @@
-### Hi there 👋
+### The First Letter 👋
 
 <!--
 **hdinjos/hdinjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-The First Letter
 - 🔭 I’m currently working by my self
 - 🌱 I’m currently learning modern javascript
 - ⚡ Fun fact: ...
