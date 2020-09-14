@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working by my self
 - 🌱 I’m currently learning modern javascript
 - ⚡ Fun fact: ...
-Kuli nulis, Pengemis Asyncronous, Gagal move on dari I dan O, Unix-like enthusiast
+You wanted a banana but what you got was a gorilla holding the banana and the entire jungle
