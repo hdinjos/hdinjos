@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="http://www.nyan.cat/cats/jazz.gif" height="128">
-  <span align="center">You wanted a banana but what you got was a gorilla holding the banana and the entire jungle</span>
+  <div align="center">You wanted a banana but what you got was a gorilla holding the banana and the entire jungle</div>
 </div>
