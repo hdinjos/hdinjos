@@ -1,4 +1,4 @@
-### The First Letter 👋
+<!--### The First Letter 👋-->
 
 <!--
 **hdinjos/hdinjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="http://www.nyan.cat/cats/jazz.gif" height="128">
-  <span>
-    You wanted a banana but what you got was a gorilla holding the banana and the entire jungle
-  </span>
+  <span align="center">You wanted a banana but what you got was a gorilla holding the banana and the entire jungle</span>
 </div>
