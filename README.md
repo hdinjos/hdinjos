@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working by my self
-- 🌱 I’m currently learning modern javascript
-- ⚡ Fun fact: ...
-You wanted a banana but what you got was a gorilla holding the banana and the entire jungle
+
+<div align="center">
+  <img src="http://www.nyan.cat/cats/jazz.gif" height="128">
+  <span>
+    You wanted a banana but what you got was a gorilla holding the banana and the entire jungle
+  </span>
+</div>
