@@ -19,9 +19,3 @@ Here are some ideas to get you started:
   <img src="http://www.nyan.cat/cats/jazz.gif" height="128">
   <div align="center">You wanted a banana but what you got was a gorilla holding the banana and the entire jungle</div>
 </div>
-
-
-<div align="center">
-  <img src="http://www.nyan.cat/images/lovebot.gif" height="128">
-  <div align="center">You wanted a banana but what you got was a gorilla holding the banana and the entire jungle</div>
-</div>
