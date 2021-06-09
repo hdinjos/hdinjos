@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="http://www.nyan.cat/cats/jazz.gif" height="128">
-  <div align="center">You wanted a banana but what you got was a gorilla holding the banana and the entire jungle</div>
+  <blockquote>
+    
+    Ketika bilangan 1 dan O sudah mendarah daging
+
+    Apalah artinya pemprograman komputer?
+
+    Hobi bukan, pekerjaan bukan
+
+    Tapi kebutuhan
+  </blockquote>
 </div>
